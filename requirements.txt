@@ -1,0 +1,9 @@
+opencv-python
+mediapipe==0.10.21
+numpy
+pyautogui
+transformers
+torch
+torchvision
+pillow
+pyinstaller
